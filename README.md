@@ -1,6 +1,6 @@
 # ALURA CHALLENGE BI
 
-![GitHub](https://img.shields.io/github/license/Marcelo0479/Alura_challenge_bi)
+[![GitHub](https://img.shields.io/github/license/Marcelo0479/Alura_challenge_bi)](https://github.com/Marcelo0479/Alura_challenge_bi/blob/main/LICENSE)
 
 The challenge consists of creating three Power BI reports in order to show the necessary skills to do so. Its has been divided by difficulty levels in the following order:
 
