@@ -13,6 +13,8 @@ To make this first report, I divided into three pages, front page, delivery dash
 In the delivery dashboard, I puted the number of deliveries, the information of on-time and late deliveries, the S2D indicator, the amount of vehicles available and the average level of stock by year.
 In the sales dashboard, I placed the occurrence rate map by states and improved the report by adding the total products, the total revenue and two charts with sales breakdown per month and by product type.
 
+Take a look in the online dashboard: [https://bityli.com/TNVwn](https://bityli.com/TNVwn)
+
 ## Front Page
 ![image](https://user-images.githubusercontent.com/77294637/158210901-793b5710-20a5-4fe2-9d3a-def88b37ab2b.png)
 
