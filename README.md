@@ -28,10 +28,7 @@ Take a look in the online dashboard: [https://bityli.com/TNVwn](https://bityli.c
 
 Another improvement I made was putting navigation icons on the report. On the front page, two icons, each for a dashboard, and on each dashboard a right arrow to the next dashboard and a left arrow to go back to the front page.
 
-![image](https://user-images.githubusercontent.com/77294637/158219018-4fd6ac2a-c61f-4885-a0d7-dde5123c7afc.png)
-
-![image](https://user-images.githubusercontent.com/77294637/158218541-f7b77037-ec9e-4505-b61c-bce303c3c246.png)
-
+![image](https://user-images.githubusercontent.com/77294637/158252375-81eaaf94-1260-459e-91b7-9305c0735629.png)
 
 ## Mobile view
 
