@@ -33,4 +33,24 @@ Another improvement I made was putting navigation icons on the report. On the fr
 ![image](https://user-images.githubusercontent.com/77294637/158218541-f7b77037-ec9e-4505-b61c-bce303c3c246.png)
 
 
+## Mobile view
+
+### Front page
+![image](https://user-images.githubusercontent.com/77294637/158250352-418e726c-2e74-435a-865b-3d89bea74a18.png)
+
+### Delivery dashboard
+
+![image](https://user-images.githubusercontent.com/77294637/158251257-902123bd-e5be-42c1-a157-cf5986f9ea4b.png)
+
+![image](https://user-images.githubusercontent.com/77294637/158251315-d5aec0a9-2032-4013-8e48-e4b72b0f33ae.png)
+
+![image](https://user-images.githubusercontent.com/77294637/158251360-084f4474-1650-41bf-bcf5-c255b0898c4d.png)
+
+### Sales dashboard
+
+![image](https://user-images.githubusercontent.com/77294637/158251414-ef1e8a10-5543-4399-b5ba-08532011cc01.png)
+
+![image](https://user-images.githubusercontent.com/77294637/158251454-53cbde48-490d-4774-a804-23c0abc8332e.png)
+
+
 
