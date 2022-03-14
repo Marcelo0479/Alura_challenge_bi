@@ -21,7 +21,7 @@ Take a look in the online dashboard: [https://bityli.com/TNVwn](https://bityli.c
 ![image](https://user-images.githubusercontent.com/77294637/158210901-793b5710-20a5-4fe2-9d3a-def88b37ab2b.png)
 
 ## Delivery dashboard
-![image](https://user-images.githubusercontent.com/77294637/158215849-0508965c-7ce7-4326-b1b6-d55bf37b132e.png)
+![image](https://user-images.githubusercontent.com/77294637/158241861-f22c296e-a8a6-4622-bdc5-0b0c002ee4ed.png)
 
 ## Sales dashboard
 ![image](https://user-images.githubusercontent.com/77294637/158215950-e5871c9f-285c-415c-9ec5-393520e5389b.png)
