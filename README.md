@@ -33,7 +33,8 @@ Another improvement I made was putting navigation icons on the report. On the fr
 ## Mobile view
 
 ### Front page
-![image](https://user-images.githubusercontent.com/77294637/158250352-418e726c-2e74-435a-865b-3d89bea74a18.png)
+
+![image](https://user-images.githubusercontent.com/77294637/158459611-1e397694-d492-4ee8-bebe-da983bacb957.png)
 
 ### Delivery dashboard
 
