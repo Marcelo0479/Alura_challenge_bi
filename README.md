@@ -17,26 +17,26 @@ In the sales dashboard, I placed the occurrence rate map by states and improved 
 
 Take a look in the online dashboard: [https://bityli.com/TNVwn](https://bityli.com/TNVwn)
 
-## Front Page
+### Front Page
 ![image](https://user-images.githubusercontent.com/77294637/158210901-793b5710-20a5-4fe2-9d3a-def88b37ab2b.png)
 
-## Delivery dashboard
+### Delivery dashboard
 ![image](https://user-images.githubusercontent.com/77294637/158241861-f22c296e-a8a6-4622-bdc5-0b0c002ee4ed.png)
 
-## Sales dashboard
+### Sales dashboard
 ![image](https://user-images.githubusercontent.com/77294637/158215950-e5871c9f-285c-415c-9ec5-393520e5389b.png)
 
 Another improvement I made was putting navigation icons on the report. On the front page, two icons, each for a dashboard, and on each dashboard a right arrow to the next dashboard and a left arrow to go back to the front page.
 
 ![image](https://user-images.githubusercontent.com/77294637/158252375-81eaaf94-1260-459e-91b7-9305c0735629.png)
 
-## Mobile view
+### Mobile view
 
 ### Front page
 
 ![image](https://user-images.githubusercontent.com/77294637/158459611-1e397694-d492-4ee8-bebe-da983bacb957.png)
 
-### Delivery dashboard
+#### Delivery dashboard
 
 ![image](https://user-images.githubusercontent.com/77294637/158251257-902123bd-e5be-42c1-a157-cf5986f9ea4b.png)
 
@@ -44,7 +44,7 @@ Another improvement I made was putting navigation icons on the report. On the fr
 
 ![image](https://user-images.githubusercontent.com/77294637/158251360-084f4474-1650-41bf-bcf5-c255b0898c4d.png)
 
-### Sales dashboard
+#### Sales dashboard
 
 ![image](https://user-images.githubusercontent.com/77294637/158251414-ef1e8a10-5543-4399-b5ba-08532011cc01.png)
 
