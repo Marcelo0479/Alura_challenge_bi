@@ -53,4 +53,7 @@ Another improvement I made was putting navigation icons on the report. On the fr
 ## Second challenge:
 AluraShop invested in advertising to stand out in marketing and the company manager has doubts if the return of this advertising took effect. My mission is to support managers in their decision making and clarify their doubts. For this, I will develop a strategic market dashboard in order to monitor the advertising campaign during the month of July 2021. Furthermore I will show relevant indicators for the validation of the business strategy.
 
+To make this second report, I decided to keep the layout of the first report, three pages. Front page, general indicators and details.
+In the general indicators dashboard, I puted the campaign total cost, total purchases, cost per click, conversion tax, average ticket, ROAS (return on advertising spend) by gender and age, reach by gender and age, and finally the shopping jorney.
+In the details panel, I put the invested amount converted to purchases, the cloud of words for this campaign, purchase conversion value by genre, average ticket per device, and purchase conversion value per day.
 
