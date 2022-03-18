@@ -5,7 +5,7 @@
 The challenge consists of creating three Power BI reports in order to show the necessary skills to do so. Its has been divided by difficulty levels in the following order:
 
  - [Logistic challenge](https://github.com/Marcelo0479/Alura_challenge_bi/blob/main/README.md#first-challenge)
- - [Marketing challenge](https://www.alura.com.br/challenges/bi/semana-02-marketing)
+ - [Marketing challenge](https://github.com/Marcelo0479/Alura_challenge_bi/blob/main/README.md#second-challenge)
  - Financial challenge
 
 ## First challenge:
