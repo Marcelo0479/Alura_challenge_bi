@@ -57,3 +57,33 @@ To make this second report, I decided to keep the layout of the first report, th
 In the general indicators dashboard, I puted the campaign total cost, total purchases, cost per click, conversion tax, average ticket, ROAS (return on advertising spend) by gender and age, reach by gender and age, and finally the shopping jorney.
 In the details panel, I put the invested amount converted to purchases, the cloud of words for this campaign, purchase conversion value by genre, average ticket per device, and purchase conversion value per day.
 
+Take a look in the online dashboard: https://bityli.com/WUYPv
+
+### Front Page
+![image](https://user-images.githubusercontent.com/77294637/159042141-690726fd-bb2c-4788-98db-4bee0437e7d3.png)
+
+### General indicators dashboard
+![image](https://user-images.githubusercontent.com/77294637/159042189-20ca80be-dea0-4a14-bfe0-650ba9e5d97d.png)
+
+### Details dashboard
+![image](https://user-images.githubusercontent.com/77294637/159042350-4d6ed4e3-677f-49f9-853f-bd3c3978d4c7.png)
+
+### Mobile view
+
+### Front page
+
+![image](https://user-images.githubusercontent.com/77294637/159043382-94f78093-87f7-4781-b1b6-23164dcc8ac0.png)
+
+### General indicators dashboard
+
+![image](https://user-images.githubusercontent.com/77294637/159043461-40b62609-983e-4bcf-a544-19d79c3f5a9e.png)
+
+![image](https://user-images.githubusercontent.com/77294637/159043538-f1f240b4-5147-4984-832a-e4eef3397749.png)
+
+![image](https://user-images.githubusercontent.com/77294637/159043575-48712525-5d30-4474-b8bf-69f2c718703f.png)
+
+### Details dashboard
+
+![image](https://user-images.githubusercontent.com/77294637/159043741-edc58f7a-5049-4c54-941c-e39124a1e8bb.png)
+
+![image](https://user-images.githubusercontent.com/77294637/159043807-77a292b9-7463-4c1b-9e31-a2259b59d798.png)
