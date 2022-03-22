@@ -30,13 +30,13 @@ Another improvement I made was putting navigation icons on the report. On the fr
 
 ![image](https://user-images.githubusercontent.com/77294637/158252375-81eaaf94-1260-459e-91b7-9305c0735629.png)
 
-### Mobile view
+## Mobile view
 
 ### Front page
 
 ![image](https://user-images.githubusercontent.com/77294637/158459611-1e397694-d492-4ee8-bebe-da983bacb957.png)
 
-#### Delivery dashboard
+### Delivery dashboard
 
 ![image](https://user-images.githubusercontent.com/77294637/158251257-902123bd-e5be-42c1-a157-cf5986f9ea4b.png)
 
@@ -44,7 +44,7 @@ Another improvement I made was putting navigation icons on the report. On the fr
 
 ![image](https://user-images.githubusercontent.com/77294637/158251360-084f4474-1650-41bf-bcf5-c255b0898c4d.png)
 
-#### Sales dashboard
+### Sales dashboard
 
 ![image](https://user-images.githubusercontent.com/77294637/158251414-ef1e8a10-5543-4399-b5ba-08532011cc01.png)
 
@@ -68,7 +68,7 @@ Take a look in the online dashboard: https://bityli.com/WUYPv
 ### Details dashboard
 ![image](https://user-images.githubusercontent.com/77294637/159042350-4d6ed4e3-677f-49f9-853f-bd3c3978d4c7.png)
 
-### Mobile view
+## Mobile view
 
 ### Front page
 
@@ -87,3 +87,38 @@ Take a look in the online dashboard: https://bityli.com/WUYPv
 ![image](https://user-images.githubusercontent.com/77294637/159043741-edc58f7a-5049-4c54-941c-e39124a1e8bb.png)
 
 ![image](https://user-images.githubusercontent.com/77294637/159043807-77a292b9-7463-4c1b-9e31-a2259b59d798.png)
+
+
+## Third challenge:
+AluraShop invested in advertising to stand out in marketing and the company manager has doubts if the return of this advertising took effect. My mission is to support managers in their decision making and clarify their doubts. For this, I will develop a strategic market dashboard in order to monitor the advertising campaign during the month of July 2021. Furthermore I will show relevant indicators for the validation of the business strategy.
+
+To make this second report, I decided to keep the layout of the first report, three pages. Front page, general indicators and details.
+In the general indicators dashboard, I puted the campaign total cost, total purchases, cost per click, conversion tax, average ticket, ROAS (return on advertising spend) by gender and age, reach by gender and age, and finally the shopping jorney.
+In the details panel, I put the invested amount converted to purchases, the cloud of words for this campaign, purchase conversion value by genre, average ticket per device, and purchase conversion value per day.
+
+Take a look in the online dashboard: https://bityli.com/mMYPl
+
+### Front Page
+![image](https://user-images.githubusercontent.com/77294637/159492236-56326f38-fec5-4216-9e9e-eae9aa381b09.png)
+
+### Financial indicators dashboard
+![image](https://user-images.githubusercontent.com/77294637/159492711-03286de3-4e2e-4b47-b2cf-b81d36418ef4.png)
+
+### Scenario analysis dashboard
+![image](https://user-images.githubusercontent.com/77294637/159492796-bd00f83c-85fb-4ead-b090-cbe4a827c1fb.png)
+
+## Mobile view
+
+### Front page
+
+![image](https://user-images.githubusercontent.com/77294637/159493127-31d5288a-79ae-4aec-98d0-fdab01823212.png)
+
+### Financial indicators dashboard
+
+![image](https://user-images.githubusercontent.com/77294637/159493223-c565f1a9-41a0-4454-ac67-fccb4c46aa8e.png)
+
+![image](https://user-images.githubusercontent.com/77294637/159493288-669c1aa8-515f-4f82-9892-0f6c4a9339ae.png)
+
+### Scenario analysis dashboard
+
+![image](https://user-images.githubusercontent.com/77294637/159493380-64da77d9-0f46-422e-8364-7c346ae7240a.png)
