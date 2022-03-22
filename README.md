@@ -94,7 +94,7 @@ The manager of the Alura store needs to know the main financial indicators and a
 
 To make this third report, I kept the three-page layout again. In this case, homepage, financial indicators dashboard and scenario analysis dashboard.
 In the financial indicators dashboard, I putted the values of income, costs, expenses, profits and two graphs, one of these indicators per month, and another by type of product. In addition, three lists, one with years, one with quarters and the last one with months to be able to see the values in each selected period.
-In the scenario analysis dashboard, I placed the same indicators as in the previous dashboard, but with sliders that varied these indicators in percentage, and a pie chart to graphically see the variations.
+In the scenario analysis dashboard, I placed four sliders, one for each financial indicator, which varied the values of these indicators in percentage, and a pie chart to graphically see the variations.
 
 Take a look in the online dashboard: https://bityli.com/mMYPl
 
