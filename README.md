@@ -6,7 +6,7 @@ The challenge consists of creating three Power BI reports in order to show the n
 
  - [Logistic challenge](https://github.com/Marcelo0479/Alura_challenge_bi/blob/main/README.md#first-challenge)
  - [Marketing challenge](https://github.com/Marcelo0479/Alura_challenge_bi/blob/main/README.md#second-challenge)
- - Financial challenge
+ - [Financial challenge](https://github.com/Marcelo0479/Alura_challenge_bi/blob/main/README.md#third-challenge)
 
 ## First challenge:
 To deal with the pandemic situation, Aluralog's manager needs to know how the deliveries services demand is. He needs to know the number of deliveries, how many were made on time and late, and the number of vehicles avaliable. Furthermore, he wants to know the S2D (ship to door) in days, the occurrence index by states and the average level of stock by year.
@@ -54,8 +54,8 @@ Another improvement I made was putting navigation icons on the report. On the fr
 AluraShop invested in advertising to stand out in marketing and the company manager has doubts if the return of this advertising took effect. My mission is to support managers in their decision making and clarify their doubts. For this, I will develop a strategic market dashboard in order to monitor the advertising campaign during the month of July 2021. Furthermore I will show relevant indicators for the validation of the business strategy.
 
 To make this second report, I decided to keep the layout of the first report, three pages. Front page, general indicators and details.
-In the general indicators dashboard, I puted the campaign total cost, total purchases, cost per click, conversion tax, average ticket, ROAS (return on advertising spend) by gender and age, reach by gender and age, and finally the shopping jorney.
-In the details panel, I put the invested amount converted to purchases, the cloud of words for this campaign, purchase conversion value by genre, average ticket per device, and purchase conversion value per day.
+In the general indicators dashboard, I putted the campaign total cost, total purchases, cost per click, conversion tax, average ticket, ROAS (return on advertising spend) by gender and age, reach by gender and age, and finally the shopping jorney.
+In the details dashboard, I put the invested amount converted to purchases, the cloud of words for this campaign, purchase conversion value by genre, average ticket per device, and purchase conversion value per day.
 
 Take a look in the online dashboard: https://bityli.com/WUYPv
 
@@ -90,11 +90,11 @@ Take a look in the online dashboard: https://bityli.com/WUYPv
 
 
 ## Third challenge:
-AluraShop invested in advertising to stand out in marketing and the company manager has doubts if the return of this advertising took effect. My mission is to support managers in their decision making and clarify their doubts. For this, I will develop a strategic market dashboard in order to monitor the advertising campaign during the month of July 2021. Furthermore I will show relevant indicators for the validation of the business strategy.
+The manager of the Alura store needs to know the main financial indicators and analyze what-if scenarios of variations in demand, costs, expenses and profit.
 
-To make this second report, I decided to keep the layout of the first report, three pages. Front page, general indicators and details.
-In the general indicators dashboard, I puted the campaign total cost, total purchases, cost per click, conversion tax, average ticket, ROAS (return on advertising spend) by gender and age, reach by gender and age, and finally the shopping jorney.
-In the details panel, I put the invested amount converted to purchases, the cloud of words for this campaign, purchase conversion value by genre, average ticket per device, and purchase conversion value per day.
+To make this third report, I kept the three-page layout again. In this case, homepage, financial indicators dashboard and scenario analysis dashboard.
+In the financial indicators dashboard, I putted the values of income, costs, expenses, profits and two graphs, one of these indicators per month, and another by type of product. In addition, three lists, one with years, one with quarters and the last one with months to be able to see the values in each selected period.
+In the scenario analysis dashboard, I placed the same indicators as in the previous dashboard, but with sliders that varied these indicators in percentage, and a pie chart to graphically see the variations.
 
 Take a look in the online dashboard: https://bityli.com/mMYPl
 
